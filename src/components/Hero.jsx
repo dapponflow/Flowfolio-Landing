@@ -7,7 +7,7 @@ const Hero = () => {
         <>
             <Head>
                 <title>Flowfolio</title>
-                <meta name="description" content="FitQuest" />
+                <meta name="description" content="FLowFolio" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/flowfolio-logo.png" />
             </Head>
