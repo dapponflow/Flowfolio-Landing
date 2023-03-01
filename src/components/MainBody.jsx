@@ -5,7 +5,8 @@ const MainBody = () => {
         <>
 
 
-            <div>
+            <div className="delay-[300ms] duration-[600ms] taos:translate-y-[200px] taos:opacity-0">
+            
                 <section className="mb-32 text-gray-800 text-center">
                     <div className="px-6 py-12 md:px-12">
                         <div className="container mx-auto xl:px-32">

@@ -5,7 +5,7 @@ const TimeLine = () => {
     return (
         <>
             <div className="p-48">
-                <div className="text-5xl text-white font-extrabold">Timeline</div>
+                <div className="text-5xl text-white font-extrabold">Roadmap</div>
                 <div class="container  mx-auto w-full h-full">
                     <div class="relative wrap overflow-hidden p-10 h-full">
                         <div class="border-2-2 absolute border-opacity-20 border-white h-full border left-1/2"></div>
