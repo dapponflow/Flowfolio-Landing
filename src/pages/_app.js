@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }) {
           <Component {...pageProps} />
         </ChakraProvider>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </div>
 
   );
