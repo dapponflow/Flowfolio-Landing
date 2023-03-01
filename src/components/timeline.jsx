@@ -24,11 +24,11 @@ const TimeLine = () => {
                         <div class="mb-8 flex justify-between flex-row-reverse items-center w-full left-timeline">
                             <div class="order-1 w-5/12"></div>
                             <div class="z-20 flex items-center order-1 bg-gray-800 shadow-xl w-8 h-8 rounded-full">
-                                <h1 class="mx-auto text-white font-semibold text-lg">2</h1>
+                                <h1 class="mx-auto text-white text-lg">2</h1>
                             </div>
                             <div class="order-1 bg-gray-600 rounded-lg shadow-xl w-5/12 px-6 py-4">
                                 <h3 class="mb-3 font-bold text-white text-xl">User Testing:</h3>
-                                <p class="text-sm font-medium leading-snug tracking-wide text-white text-opacity-100"> Once we had a functional prototype, we conducted user testing with a small group of beta testers to gather feedback and refine the apps design and user interface.</p>
+                                <p class="text-sm font-thin leading-snug tracking-wide text-white text-opacity-100"> Once we had a functional prototype, we conducted user testing with a small group of beta testers to gather feedback and refine the apps design and user interface.</p>
                             </div>
                         </div>
 
@@ -50,7 +50,7 @@ const TimeLine = () => {
                             </div>
                             <div class="order-1 bg-gray-600 rounded-lg shadow-xl w-5/12 px-6 py-4">
                                 <h3 class="mb-3 font-bold text-white text-xl">Integration with Other Marketplaces: </h3>
-                                <p class="text-sm font-medium leading-snug tracking-wide text-white text-opacity-100">In addition to providing a comprehensive NFT portfolio tracking solution for the LaLiga Golazos ecosystem, we plan to expand Flowfolio to support other marketplaces as well. Our team is already working on integrating with other Flow-based NFT projects and marketplaces, so stay tuned for updates!</p>
+                                <p class="text-sm font-thin leading-snug tracking-wide text-white text-opacity-100">In addition to providing a comprehensive NFT portfolio tracking solution for the LaLiga Golazos ecosystem, we plan to expand Flowfolio to support other marketplaces as well. Our team is already working on integrating with other Flow-based NFT projects and marketplaces, so stay tuned for updates!</p>
                             </div>
                         </div>
                     </div>
